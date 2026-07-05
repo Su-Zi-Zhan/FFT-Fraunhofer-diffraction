@@ -2,7 +2,7 @@
 
 FFT-Based Fraunhofer Diffraction: Sampling Design and Rayleigh Recovery
 
-A numerical computation project for the course *Numerical Approximation II*, exploring FFT-based Fraunhofer diffraction simulation with rigorous sampling analysis and Rayleigh resolution recovery.
+A numerical computation project for the course *Numerical Algorithms with Case Studies II*, exploring FFT-based Fraunhofer diffraction simulation with rigorous sampling analysis and Rayleigh resolution recovery.
 
 ## Overview
 
@@ -68,4 +68,4 @@ pytest tests/
 
 ## Author
 
-**Ruijie Li** — *Numerical Approximation II, Spring 2026*
+**Ruijie Li** — *Numerical Algorithms with Case Studies II, Spring 2026*
