@@ -48,9 +48,10 @@ This project implements a full pipeline for simulating Fraunhofer diffraction us
 ## Requirements
 
 - Python 3.12+
-- NumPy, SciPy
-- Matplotlib
-- pytest (for testing)
+- NumPy 2.4+
+- SciPy 1.17+
+- Matplotlib 3.10+
+- pytest 9.0+ (for testing)
 
 ## Usage
 
@@ -67,4 +68,4 @@ pytest tests/
 
 ## Author
 
-**Ruijie Li** (24300720157) — *Numerical Approximation II, Fall 2025*
+**Ruijie Li** — *Numerical Approximation II, Spring 2026*
