@@ -27,5 +27,6 @@ __pycache__/
 # 打包文件
 *.zip
 
-# Markdown（不上传文档）
+# Markdown（不上传文档，但保留 README）
 *.md
+!README.md
