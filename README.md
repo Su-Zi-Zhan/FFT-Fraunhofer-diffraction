@@ -47,7 +47,7 @@ This project implements a full pipeline for simulating Fraunhofer diffraction us
 
 ## Requirements
 
-- Python 3.12+
+- Python 3.14+
 - NumPy 2.4+
 - SciPy 1.17+
 - Matplotlib 3.10+
