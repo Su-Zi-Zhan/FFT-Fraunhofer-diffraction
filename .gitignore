@@ -1,0 +1,31 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 测试缓存
+.pytest_cache/
+
+# 个人编辑器配置（含本地路径泄露）
+.claude/
+.obsidian/
+
+# LaTeX 编译中间产物
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+
+# 备份文件
+*_backup.tex
+*_backup.pdf
+
+# 打包文件
+*.zip
+
+# Markdown（不上传文档）
+*.md
